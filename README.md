@@ -112,7 +112,7 @@ ORDER BY Event, period;
 ---
 
 ## Files
-- `NCAA top 100 2016-2025(1).xlsx` — Full dataset with raw data sheets and pivot table summaries
+- [NCAA top 100 2016-2025(1).xlsx](https://github.com/bhilliv719/ncaa-distance-running-analysis/blob/main/NCAA%20top%20100%202016-2025%20(1).xlsx) — Full dataset with raw data sheets and pivot table summaries
 - [queries.sql](https://github.com/bhilliv719/ncaa-distance-running-analysis/blob/main/queries.sql) — All SQL queries used in the analysis
 
 ---
